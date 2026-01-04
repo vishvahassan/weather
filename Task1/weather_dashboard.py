@@ -5,7 +5,7 @@ import seaborn as sns
 # ==============================
 # CITY CONFIGURATION
 # ==============================
-CITY = "Thanjavur"
+CITY = "kashmir"
 
 # ==============================
 # PUBLIC WEATHER API (NO KEY)
